@@ -1,0 +1,37 @@
+.body {
+    display: grid;
+    grid-template-columns: 1fr;  
+    
+}
+
+.container {
+    display: grid;
+    grid-template-columns: 1fr 200px 600px 200px 1fr;  
+    padding: 40px 0;
+    
+}
+
+.container> .short {
+    grid-column: 3/4;
+    background-color: pink;
+
+}
+
+.container > .long.columns {
+    display: grid;
+    grid-template-columns: 5fr 1fr 4fr;      /* geriau nei %  */
+    /* grid-template-columns: 50% 10% 40%;  */
+}
+
+@media (max-width: 900px) {
+    .container {
+        gr
+
+    }
+}
+
+
+/* .container> .long {
+    grid-column: 2/5;
+    background-color: aqua; 
+} */
