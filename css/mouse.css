@@ -1,0 +1,38 @@
+.mouse {
+    display: inline-block;
+    width: 160px;
+    height: 240px;
+    border: 15px solid #ffffff;
+    border-radius: 80px;
+}
+
+    .mouse > .wheel {
+        display: inline-block;
+        width: 15px;
+        height: 30px;
+        background-color: #ffffff;
+        margin-top: 40px;
+        border-radius: 8px;
+
+    }
+
+
+
+
+
+
+
+
+
+
+
+@keyframes scrolling {
+    0% {
+        margin-top: 40px;
+        background-color;
+    }
+    100% {
+        margin-top: 140px;
+    }
+
+}

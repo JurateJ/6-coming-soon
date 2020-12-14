@@ -3,14 +3,14 @@
 Ka ir kaip ketinam daryti?
 
 - [x] paanalizuoti paveiksliuka/dizaina;
-- [ ]pasiruost basic failus;
-- [ ]susikelti i GitHub;
-- [ ]GitHub'e pasileisti viesai prieinama nuoroda;
-- [ ]susikurti projekto aprasa (ka ir kaip ketinam realizuoti projekte);
-- [ ]darbo uzduociu planavimas su "GitHUb projects";
-    - uzduoties aprasymas turi buti kiek imanoma detalesnis
-    - uztrukti ne daugiau nei pusdieni
-    - pagal aprasyma, turetu  galeti priimti sprendima, ar uzduotis atlikta deramai
-    - bus reikalingas "develop" branch'as;
-    - projekto vystymas bus pagal "Git Flow"darbo principa;   
+- [x] pasiruost basic failus;
+- [x] susikelti i GitHub;
+- [x] GitHub'e pasileisti viesai prieinama nuoroda;
+- [x] susikurti projekto aprasa (ka ir kaip ketinam realizuoti projekte);
+- [x] darbo uzduociu planavimas su "GitHUb projects";
+    - [x] uzduoties aprasymas turi buti kiek imanoma detalesnis
+    - [x] uztrukti ne daugiau nei pusdieni
+    - [x] pagal aprasyma, turetu  galeti priimti sprendima, ar uzduotis atlikta deramai
+    - [x] bus reikalingas "develop" branch'as;
+    - [x] projekto vystymas bus pagal "Git Flow"darbo principa;   
 
